@@ -3,14 +3,14 @@ def new_hash
 end
 
 def my_hash
-  hash = {:key => "value"}
+   {:key => "value"}
 end
 
 def pioneer
-  hash = {:name => "Grace Hopper"}
+  {:name => "Grace Hopper"}
 end
 
 
 def id_hash_generator(number)
-  hash = {:id => number}
+  {:id => number}
 end
